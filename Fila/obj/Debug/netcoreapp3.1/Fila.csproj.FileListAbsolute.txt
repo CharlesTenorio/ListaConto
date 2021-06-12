@@ -1,0 +1,13 @@
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/bin/Debug/netcoreapp3.1/Fila
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/bin/Debug/netcoreapp3.1/Fila.deps.json
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/bin/Debug/netcoreapp3.1/Fila.runtimeconfig.json
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/bin/Debug/netcoreapp3.1/Fila.runtimeconfig.dev.json
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/bin/Debug/netcoreapp3.1/Fila.dll
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/bin/Debug/netcoreapp3.1/Fila.pdb
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/obj/Debug/netcoreapp3.1/Fila.csprojAssemblyReference.cache
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/obj/Debug/netcoreapp3.1/Fila.AssemblyInfoInputs.cache
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/obj/Debug/netcoreapp3.1/Fila.AssemblyInfo.cs
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/obj/Debug/netcoreapp3.1/Fila.csproj.CoreCompileInputs.cache
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/obj/Debug/netcoreapp3.1/Fila.dll
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/obj/Debug/netcoreapp3.1/Fila.pdb
+/home/charles-lid/Documentos/estudos/dotnet_estudos/Fila/obj/Debug/netcoreapp3.1/Fila.genruntimeconfig.cache
